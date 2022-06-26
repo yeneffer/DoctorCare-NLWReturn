@@ -1,4 +1,4 @@
-# DoctorCare-NLWReturn
+# DoctorCare 
 Realização do projeto proposto durante a NLW Return 2022 pela RocketSeat
 
 Tecnologias usadas: HTML, CSS e JavaScript 
